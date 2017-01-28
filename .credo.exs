@@ -38,6 +38,7 @@
         {Credo.Check.Design.TagTODO, false},
         {Credo.Check.Design.TagFIXME, false},
 
+        {Credo.Check.Readability.Specs, false},
         {Credo.Check.Readability.FunctionNames},
         {Credo.Check.Readability.LargeNumbers},
         {Credo.Check.Readability.MaxLineLength, false},
