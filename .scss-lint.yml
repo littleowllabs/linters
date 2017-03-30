@@ -6,6 +6,8 @@
 # https://github.com/causes/scss-lint/blob/master/config/default.yml
 # below is our settings.
 
+exclude: 'apps/juicebox_web/assets/js/container/container.scss'
+
 linters:
   BangFormat:
     enabled: true
